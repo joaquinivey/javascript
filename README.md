@@ -2,13 +2,11 @@
 
 > Learn JavaScript by adventuring around in the terminal.  
 
-> _Looking for more interactive tutorials like this? Go to [nodeschool.io](http://nodeschool.io)._
+> _Hicimos un fork del repositorio original para agregar componentes, todo el trabajo inicial es de: [nodeschool.io](http://nodeschool.io)._
 
 ## Get help
-Having issues with javascripting? Get help troubleshooting in the [nodeschool discussions repo](https://github.com/nodeschool/discussions),
-on [gitter](https://gitter.im/nodeschool/discussions) or in [repository issues](https://github.com/workshopper/javascripting/issues)
 
-Also, take a look into our [troubleshooting documentation](https://github.com/workshopper/javascripting/blob/master/TROUBLESHOOTING.md)
+
 
 ## Install Node.js
 
@@ -54,9 +52,6 @@ You can use any editor you like.
 
 ## Need help with an exercise?
 
-Open an issue in the [nodeschool/discussions repo](https://github.com/nodeschool/discussions)
-
-Include the name `javascripting` and the name of the challenge you're working on in the title of the issue.
 
 ## Get Involved
 
